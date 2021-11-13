@@ -1,0 +1,7 @@
+.card img{
+    height: 250px;
+  }
+  
+  .card {
+    display:grid;
+  }
